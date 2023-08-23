@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Keebio")(type "KiCad")(uri "/home/max/projects/keyboard/piantor/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "max")(type "KiCad")(uri "/home/max/.local/share/kicad/6.0/footprints/max.pretty")(options "")(descr ""))
+)
