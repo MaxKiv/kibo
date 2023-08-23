@@ -1,6 +1,6 @@
 # Piantor Keyboard
 
-![Piantor Keyboard](docs/banner.jpg)
+![Piantor Keyboard](docs/kibo.jpg)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -65,7 +65,7 @@ Precompiled firmware can be found at https://docs.beekeeb.com/piantor-keyboard.
 ## Cases
 
 * [Piantor Gasket Mount Case by chewiedies](https://www.printables.com/model/536044-piantor-gasket-mount-case)
-* [Piantor 36-key case with Tenting & Magnets! by Daave](https://www.printables.com/model/381730-piantor-36-key-case-with-tenting-magnets) 
+* [Piantor 36-key case with Tenting & Magnets! by Daave](https://www.printables.com/model/381730-piantor-36-key-case-with-tenting-magnets)
 
 ### Piantor Case with a Switch Plate (3D Printable)
 
